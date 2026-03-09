@@ -1,0 +1,21 @@
+{
+  "name": "Botoes Motor",
+  "organization": "TOTVS",
+  "description": "Aprovacao",
+  "organizationUrl": "https://totvs.com.br",
+  "supportUrl": "https://totvs.com.br",
+  "packageUrl": "https://gabimacedos.github.io/looker-botoes-aprovacao/",
+  "devMode": true,
+  "components": [
+    {
+      "id": "botoes-gh",
+      "name": "Botoes Aprovacao GH",
+      "description": "Aprovar Reprovar por linha",
+      "resource": {
+        "js": "https://gabimacedos.github.io/looker-botoes-aprovacao/index.js",
+        "config": "https://gabimacedos.github.io/looker-botoes-aprovacao/index.json",
+        "css": "https://gabimacedos.github.io/looker-botoes-aprovacao/index.css"
+      }
+    }
+  ]
+}
